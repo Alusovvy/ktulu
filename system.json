@@ -1,0 +1,22 @@
+{
+  "name": "ktulu",
+  "title": "Testowe",
+  "description": "A minimalist game system with very simple Actor and Item models to support free-form system agnostic gameplay.",
+  "version": 0.36,
+  "minimumCoreVersion": "0.5.6",
+  "compatibleCoreVersion": "0.5.7",
+  "templateVersion": 2,
+  "author": "Atropos",
+  "esmodules": ["module/simple.js"],
+  "styles": ["styles/simple.css"],
+  "packs": [],
+  "languages": [],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": "power",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "LICENSE.txt"
+}
