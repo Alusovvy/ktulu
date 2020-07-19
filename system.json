@@ -2,7 +2,7 @@
   "name": "ktulu",
   "title": "Testowe",
   "description": "A minimalist game system with very simple Actor and Item models to support free-form system agnostic gameplay.",
-  "version": 0.36,
+  "version": 0.6.5,
   "minimumCoreVersion": "0.5.6",
   "compatibleCoreVersion": "0.5.7",
   "templateVersion": 2,
